@@ -45,17 +45,17 @@ If the visitor switches the toggle to yearly billing, a 25% discount should be a
 
 # Built with
 
-- HTML 5
+- HTML5
 - CSS Flexbox, CSS grid layouts
 - Javascript (ES6)
-- Mobile First layout
+- Mobile First workflow
 
 # What I Learned
 
 For this project I learned how to work with *range* and *checkbox* inputs and
-it's styles. I also applyed some CSS grid template area. Last, used Javascript
-to manipulate some information on the page.
+how to style them. I also applyed some CSS grid template area. Last, used Javascript
+to manipulate some information on the page such as the price discount for yearly plans.
 
-It sems like a pretty basic project, but I am very satisfied with the results.
+It seems like a pretty basic project, but I am very satisfied with the results.
 
 
